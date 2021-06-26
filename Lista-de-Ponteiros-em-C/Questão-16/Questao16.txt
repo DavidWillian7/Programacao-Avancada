@@ -1,0 +1,3 @@
+Na questão 14 e questão 15 podemos ver o tempo de execução.
+o tempo de execução depende do computador, mas a qsort tem um tempo
+de execução um pouco menor que a da função inplementada na questão 15.
