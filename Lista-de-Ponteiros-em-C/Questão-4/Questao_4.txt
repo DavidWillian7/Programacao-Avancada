@@ -1,1 +1,38 @@
+/* (a) */
+será mostrado 10
 
+/* (b) */
+será impresso 26.5
+
+/* (c) */
+imprime p
+
+/* (d) */
+imprime e
+
+/* (e) */
+imprime p
+
+/* (f) */
+imprime t
+
+/* (g) */
+imprime n
+
+/* (h) */
+imprime 31
+
+/* (i) */
+imprime 45
+
+/* (j) */
+imprime 27
+
+/* (l) */
+imprime 31
+
+/* (m) */
+imprime 45
+
+/* (m) */
+imprime 27
