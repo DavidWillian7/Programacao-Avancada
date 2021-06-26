@@ -1,1 +1,8 @@
-
+p = i; inválido, precisa do endereço.
+q = &j; válido, q recebe o endereço de j.
+p = &*&i; válido, pega o endereço do valor guardado em i.
+i = (*&)j; inválido.
+i = *&j; válido.
+i = *&*&j; válida.
+q = *p; inválido.
+i = (*p)++ + *q; vádilo
