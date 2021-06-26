@@ -1,1 +1,7 @@
+será mostrado na sequêcia:
 
+imprime endereço em hexadecimal,
+imprime 7,
+imprime 5,
+imprime 15,
+imprime 9.
