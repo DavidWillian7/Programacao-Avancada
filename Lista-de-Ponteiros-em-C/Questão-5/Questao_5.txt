@@ -1,1 +1,9 @@
+printf("\ni = %d",i); imprime 0, 1, 2, 3, 4
 
+printf("vet[%d] = %.1f",i, vet[i]); imprime a posição e o valor na posição
+
+printf("*(f + %d) = %.1f",i, *(f+i)); imprime a posição e o valor da posição
+
+printf("&vet[%d] = %X",i, &vet[i]); imprime a posição e o endereço nas posições do vetor
+
+printf("(f + %d) = %X",i, f+i); imprime a posição e o endereço em hexadecimal. 
