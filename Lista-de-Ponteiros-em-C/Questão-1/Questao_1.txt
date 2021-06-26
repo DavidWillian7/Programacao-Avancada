@@ -1,1 +1,9 @@
+p == &i; - Verdadeiro, pois p recebeu o endereço de i e compara os endereços.
 
+*p - *q; - pega o valor que está na variáel i e pega o valor que está na variável j e 
+           subtrai resultando em 3-5 = -2.
+           
+**&p = *p = i = 3; ponteiro para ponteiro para int, onde o valor guardado no endereço 
+                   de i será mostrado, ou seja, o valor 3.
+
+3 - *p/(*q) + 7; irá resultar em 9.4
