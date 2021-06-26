@@ -1,0 +1,11 @@
+◦ x for declarado como char?
+para um vetor do tipo char com 1 tamanho 1 byte, ao incrementar caminharemos pela memória de 1 em 1 byte: 4092, 4093, 4094, 4095.
+
+◦ x for declarado como int?
+para um vetor do tipo char com 2 tamanho 2 byte, ao incrementar caminharemos pela memória de 2 em 2 byte: 4092, 4094, 4096, 4098.
+
+◦ x for declarado como float?
+para um vetor do tipo char com 4 tamanho 4 byte, ao incrementar caminharemos pela memória de 4 em 4 byte: 4092, 4096, 4100, 4104.
+
+◦ x for declarado como double?
+para um vetor do tipo char com 8 tamanho 8 byte, ao incrementar caminharemos pela memória de 8 em 8 byte: 4092, 4100, 4108, 4116.
