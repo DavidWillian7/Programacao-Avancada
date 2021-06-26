@@ -1,1 +1,1 @@
-
+ambos estão caminhando no vetor, mas o primeiro programa está imprimindo os valores armazenados e no segundo está imprimindo os endereços.
