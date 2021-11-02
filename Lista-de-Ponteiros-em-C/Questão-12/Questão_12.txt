@@ -1,2 +1,2 @@
- O uso de ponteiros para funções em C serve principalmente para definir qual função será executada, 
+ O uso de ponteiros para funções em  C serve principalmente para definir qual função será executada, 
  sem a necessidade de escrever o nome da função de forma explícita.
