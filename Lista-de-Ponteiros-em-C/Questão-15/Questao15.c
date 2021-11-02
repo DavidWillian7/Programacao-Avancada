@@ -53,5 +53,6 @@ int main()
   free(vet);
   
   printf("\nTempo de execucao: %lf", ((double)t)/((CLOCKS_PER_SEC/1000)));
+  
   return 0;
 }
