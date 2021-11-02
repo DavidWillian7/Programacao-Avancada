@@ -5,7 +5,7 @@ int main()
   char x_char[4];
   int x_int[4];
   float x_float[4];
-  double x_double[4];
+  double  x_double[4];
 
   for(int i = 0; i < 4; i++)
   {
