@@ -4,6 +4,6 @@ p == &i; - Verdadeiro, pois p recebeu o endereço de i e compara os endereços.
            subtrai resultando em 3-5 = -2.
            
 **&p = *p = i = 3; ponteiro para ponteiro para int, onde o valor guardado no endereço 
-                   de i será mostrado, ou seja, o valor 3.
+                   de i será mostrado, ou seja, o valor  3.
 
 3 - *p/(*q) + 7; irá resultar em 9.4
