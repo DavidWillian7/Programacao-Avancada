@@ -1,1 +1,1 @@
-*(pulo + 2); pulo + 2 vai para o elemento 3 e *(pulo + 2) mostra o valor.
+*(pulo + 2); pulo + 2 vai para o elemento 3 e *(pulo + 2) mostra o valor. 
