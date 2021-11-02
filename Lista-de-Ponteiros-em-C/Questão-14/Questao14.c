@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
- //funcao parar comparar os valores dentro do vetor
+ //funcao para comparar os valores dentro do vetor
  int compare (const void * a, const void * b)
 {
   //retornando a diferenca entre os valores; menor que 0, igual a 0 ou maior que 0
