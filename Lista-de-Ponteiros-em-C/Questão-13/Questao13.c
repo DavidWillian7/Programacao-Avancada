@@ -30,6 +30,7 @@ int main()
      //recebendo os valores das posicoes do vetor
       scanf("%f", &vetor[i]);
    }
+    
    ordena(n, vetor);
    for(int i = 0; i < n; i++)
    {
