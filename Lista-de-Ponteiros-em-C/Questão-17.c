@@ -63,3 +63,4 @@ void imprime(int *vetor, int n){
       printf("%d ",vetor[i]);
     }
 }   
+ 
