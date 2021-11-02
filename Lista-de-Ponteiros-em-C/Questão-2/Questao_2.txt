@@ -1,4 +1,4 @@
-será mostrado na sequêcia:
+Será mostrado na sequêcia:
 
 imprime endereço em hexadecimal,
 imprime 7,
