@@ -4,4 +4,4 @@ p = mat++; inválido.
 
 p = ++mat; inválido.
 
-x = (*mat)++; válido, pega o valor na pos de mat e soma mais 1
+x = (*mat)++; válido, pega o valor na pos de mat e soma mais 1.
