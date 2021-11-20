@@ -20,6 +20,6 @@ int main()
     Sculptor area3(20,20,20);
     area3.setColor(0,0,1.0,1);
     area3.putEllipsoid(6,6,6,2,3,4);
-    area3.writeOFF("elipizaoo.OFF");
+    area3.writeOFF("elipizaoo.OFF"); 
     return 0;
 }
