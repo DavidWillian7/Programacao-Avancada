@@ -1,3 +1,3 @@
 # Sobre o projeto - parte 1
 
-O projeto consiste na construção de um escultor 3D, onde cria esculturas utilizando blocos chamados de voxel. São similares aos que vemos no game minecraft.
+O projeto consiste na construção de um escultor 3D, para criar esculturas utilizando blocos representados por matrizes digitais. São similares ao que vemos no jogo minecraft.
