@@ -77,7 +77,7 @@ void Sculptor::cutBox(int x0, int x1, int y0, int y1, int z0, int z1)
 {
     for (int x = x0; x < x1; x++)
     {
-        for (int y = y1; y < y1; y++)
+        for (int y = y0; y < y1; y++)
         {
             for (int z = z0; z < z1; z++)
             {
