@@ -25,6 +25,6 @@ public:
   void putEllipsoid(int xcenter, int ycenter, int zcenter, int rx, int ry, int rz);
   void cutEllipsoid(int xcenter, int ycenter, int zcenter, int rx, int ry, int rz);
   void writeOFF(const char* filename);
-};
+}; 
 
 #endif
